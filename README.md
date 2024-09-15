@@ -1,6 +1,7 @@
 # Smart Medibox
 
 **Smart Medibox** is an ESP32-powered system designed to remind users to take medicine on time and ensure optimal storage conditions for temperature- and light-sensitive medicines. This system offers a fully automated solution for medicine reminders and storage safety.
+![Group Photo](MediBox_Images/Wokwi_Simulation.jpeg)
 
 ## Key Features
 

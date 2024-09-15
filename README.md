@@ -34,4 +34,11 @@
 - **Connectivity:** Wi-Fi for syncing alarms and controlling the system via Node-RED
 - **Time Sync:** NTP (Network Time Protocol) for accurate alarm scheduling
 
+ ## Demo
+
+You can view and interact with the Smart Medibox system simulation on Wokwi:
+
+[Smart Medibox Simulation on Wokwi](https://wokwi.com/projects/397643300728928257)
+
+
 
